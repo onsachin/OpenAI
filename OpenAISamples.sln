@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAISamples", "OpenAISamples\OpenAISamples.csproj", "{75535291-7B77-4813-ADC3-31372FD84C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75535291-7B77-4813-ADC3-31372FD84C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75535291-7B77-4813-ADC3-31372FD84C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75535291-7B77-4813-ADC3-31372FD84C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75535291-7B77-4813-ADC3-31372FD84C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

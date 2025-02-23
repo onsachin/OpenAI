@@ -5,8 +5,8 @@ using OpenAI.Chat;
 
 public class AzureOpenAISample
 {
-    private string endpoint = "https://openai-dem.openai.azure.com/";
-    private string apiKey = "enter azure api key";
+    private string endpoint ="";// type endpoint url 
+    private string apiKey = ""; //Type  azure api key";
 
     private static void Main()
     {

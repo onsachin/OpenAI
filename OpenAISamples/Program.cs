@@ -22,12 +22,11 @@ public class AzureOpenAISample
 
         var message = new List<ChatMessage>()
         {
-            new SystemChatMessage(Console.ReadLine())
+            new SystemChatMessage(Console.ReadLine()) //Take input from user 
         };
 
         ChatCompletion completion = chatClient.CompleteChat(message);
         Console.WriteLine(completion.Content.FirstOrDefault()?.Text);
-        return;
     }
 
 }
